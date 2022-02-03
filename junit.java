@@ -4,6 +4,6 @@ import org.junit.*;
 public class junit{
     @Test
     public void test1() {
-        assertEquals(2, 1);
+        assertEquals(1, 1);
     }
 }
